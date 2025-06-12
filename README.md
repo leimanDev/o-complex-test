@@ -2,7 +2,7 @@ First download dependencies
 
 npm i
 
-First, run the development server:
+Second, run the development server:
 
 npm run dev
 # or
